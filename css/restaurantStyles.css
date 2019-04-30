@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    text-align: center;
+}
+a:hover {
+	font-weight: bold;
+}
+a:active {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #000000; 
+}
+
+body {font-family: verdana;}
+
+header {text-align: center;
+		font-family: 'Dokdo', cursive;
+		font-size: 40px;}
+		
+footer {text-align: center;
+		font-family: verdana;
+		font-size: 20px;}
+		
+nav .btn {
+    background-color: silver;
+    color: #004040; 
+}
